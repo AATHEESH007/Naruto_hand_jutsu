@@ -1,0 +1,5 @@
+.gitignore/
+*.pyc
+dataset/
+.venv/
+__pycache__/
